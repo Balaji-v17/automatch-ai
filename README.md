@@ -60,6 +60,6 @@ This project demonstrates:
 ![Comparison](./compare.png)
 
 ### 📝 Results Page
-![Results](./trends.png
+![Results](./trens.png)
 
 
