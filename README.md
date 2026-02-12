@@ -45,12 +45,21 @@ This project demonstrates:
 - Git & GitHub
 
 ---
-
 ## 📷 Screenshots
 
-Add screenshots of your homepage here
+### 🏠 Homepage
+![Homepage](./homepage.png)
 
-Example:
+### 🎯 Hero Section
+![Find match](./findmatch.png)
 
-```markdown
-![Homepage](./screenshots/homepage.png)
+### 🔍 Options Page
+![Options](./explore.png)
+
+### 📊 Comparison Page
+![Comparison](./compare.png)
+
+### 📝 Results Page
+![Results](./trends.png
+
+
